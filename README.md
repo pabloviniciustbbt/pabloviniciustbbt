@@ -1,6 +1,11 @@
 # Olá, eu sou o Pablo! 👋
 
-Sou um Desenvolvedor de Software Junior com foco em Java e sou apaixonado por tecnologia e novos desafios. Mesmo sem ter experiência profissional na área de desenvolvimento, minha determinação e curiosidade me permitem encarar qualquer desafio com foco, disciplina e vontade de aprender. Estou sempre aberto a oportunidades que me permitam colaborar com outros profissionais e expandir meus horizontes!
+Olá, me chamo Pablo! Sou um profissional de TI com mais de 4 anos de experiência em suporte técnico, 
+especializado em diagnósticos de hardware e software. Atualmente, estou focado em transicionar para a área de desenvolvimento Java, buscando oportunidades como Programador Java Júnior.
+
+Embora eu ainda não tenha tido a oportunidade de trabalhar profissionalmente na área, sou muito dedicado e comprometido em aprender tudo o que posso. Estou sempre buscando oportunidades para ampliar meus conhecimentos e colaborar com outros profissionais na realização de projetos significativos.
+
+Estou certo de que, com minha determinação e paixão pela aprendizagem constante, serei capaz de contribuir de maneira significativa em atividades de diferentes áreas. Vamos juntos alcançar grandes resultados!
 
 ## 🚀 Sobre mim
 
